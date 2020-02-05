@@ -1,2 +1,2 @@
 #!/bin/bash
-docker-compose up --build nginx php-fpm postgres pgadmin
+docker-compose up --build nginx php-fpm postgres pgadmin memcached
